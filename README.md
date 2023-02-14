@@ -7,11 +7,11 @@
 
 I'm a Beginner Developer :smile:
 
-I'm in love with developmment, fell quite well when i can solve a problem usingo my own code.
+I'm in love with developmment, fell quite well when i can solve a problem using my own codes.
 
 ## My specialties:
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+### Languages: <img src="[https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)"/>
 
 
 ### Database: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
