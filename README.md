@@ -1,7 +1,8 @@
   # Hi, I'm Vinicius!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-schvepper-39711b247/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-schvepper-39711b247/](https://www.linkedin.com/in/vinicius-schvepper-39711b247/)
+
 ## About me:
 
 I'm a Beginner Develop
