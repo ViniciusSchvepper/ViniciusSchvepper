@@ -11,7 +11,7 @@ I'm in love with developmment, fell quite well when i can solve a problem using 
 
 ## My specialties:
 
-### Languages: <img src="[https://img.shields.io/badge/Python-000000?&style=for-the-badge&logo=python&logoColor=yellow/](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)">
+### Languages: <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow">
 
 
 ### Database: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
