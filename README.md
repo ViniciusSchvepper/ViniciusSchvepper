@@ -5,13 +5,13 @@
 
 ## About me:
 
-I'm a Beginner Develop
+I'm a Beginner Developer
 
 I'm in love with development, I fell quite well when i can solve a problem using my own codes.
 
 ## My specialties:
 
-### Languages: <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### Languages: <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow">
 
 ## If I dont know something, it will take a few days.
 
