@@ -1,6 +1,5 @@
   # Olá, sou o Vinicius!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusSchvepper)](https://github.com/ViniciusSchvepper)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-schvepper-39711b247/)](https://www.linkedin.com/in/vinicius-schvepper-39711b247/)
 
 ## Sobre mim:
