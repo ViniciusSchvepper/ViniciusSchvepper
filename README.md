@@ -4,7 +4,7 @@
 
 ## About me:
 
-I'm a passionatge developer who loves to turn problems into solutions.
+I'm a passionate developer who loves to turn problems into solutions.
 
 ## Minhas especialidades:
 
