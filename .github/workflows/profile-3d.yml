@@ -2,34 +2,38 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *"  # Executa diariamente às 18:00 UTC
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3  # Faz checkout do repositório
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Gera visualização 3D
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Get Contributions Count
+      - name: Install jq  # Instala o jq para manipular JSON
+        run: |
+          sudo apt-get update
+          sudo apt-get install jq -y
+
+      - name: Get Contributions Count  # Consulta API e exibe número de contribuições
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
         run: |
           curl -H "Authorization: token $GITHUB_TOKEN" \
                -H "Accept: application/vnd.github.v3+json" \
-               https://api.github.com/search/commits?q=author:${{ github.repository_owner }} | jq '.total_count'
+               "https://api.github.com/search/commits?q=author:${{ github.repository_owner }}" | jq '.total_count'
 
-      - name: Commit & Push
+      - name: Commit & Push  # Faz commit e push das mudanças
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add -A .
           git commit -m "generated"
           git push
