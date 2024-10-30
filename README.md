@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-schvepper-39711b247/)](https://www.linkedin.com/in/vinicius-schvepper-39711b247/)
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ## About me:
 
 I'm a passionate programmer who loves to solve problems with creative solutions!
