@@ -1,4 +1,4 @@
-# Sup, I am Vinicius, backend Software Engineer!
+# Sup, I am Vinicius, Fullstack Software Engineer!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-schvepper-39711b247/)](https://www.linkedin.com/in/vinicius-schvepper-39711b247/)
 
